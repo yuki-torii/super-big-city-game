@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <button>开始</button>
   </div>
 </template>
 
